@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lnmiit Alumni</string>
+    <string name="add_post">Add Post</string>
+    <string name="add_event">Add Event</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="startdate">Start Date</string>
+    <string name="eventlocation">Event Location</string>
+    <string name="starttime">StartTime</string>
+    <string name="addphoto">ADD PHOTO</string>
+    <string name="endDate">End Date</string>
+    <string name="endTIme">End Time</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="taskSuccessful">Event Added Successfully</string>
+    <string name="collegeName">LNM Institute of Information Technolog</string>
+    <string name="title_activity_navi_gation_drawer">NaviGationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+
+</resources>
